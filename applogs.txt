@@ -1,0 +1,4 @@
+2023-12-14 13:23:51,865 [INFO] Initialized the database with sample data.
+2023-12-14 13:24:29,013 [INFO] Registration successful for user: abcd
+2023-12-14 13:28:51,849 [INFO] User logged in successfully: abcd
+2023-12-14 13:28:51,849 [INFO] Number of pending tasks for abcd: 0
